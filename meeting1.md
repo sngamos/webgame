@@ -4,6 +4,8 @@
 
 ### Concept
 
+### Purpose
+
 ### Functional requirements
 
 ### Timeline
